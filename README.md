@@ -75,7 +75,7 @@ des indicateurs par zone géographique en un seul clic.
  élevé au Cycle 3, ce qui peut indiquer une expansion de la
  couverture dans cette zone.
 
- ![Vue d'ensemble](C:\Users\DELL\Documents\Repo_PowerBI)
+ ![Vue d'ensemble](image/Vue.png)
 
 ## 📋 Redevabilité : Gestion des Plaintes
 
@@ -100,7 +100,7 @@ catégorie pour une analyse approfondie.
 
 **Apprentissage :** Avec 63 plaintes encore ouvertes et un délai moyen de 16 jours dépassant le seuil standard de 14 jours, le mécanisme de redevabilité nécessite un renforcement, notamment sur le traitement des cas via relais communautaire,
 canal le moins efficace en termes de délai.
-![Redevabilite](C:\Users\DELL\Documents\Repo_PowerBI)
+![Redevabilite](image/Rede.png)
 
 ## 👥 Profil des Bénéficiaires
 
@@ -128,7 +128,7 @@ touche majoritairement des grands ménages de 6 personnes et plus.
 
 **Apprentissage :** La prédominance des grands ménages (45 % du total) combinée à un score de vulnérabilité moyen de 50 % suggère que le programme cible bien les familles nombreuses en situation de vulnérabilité modérée à élevée, profil cohérent
 avec les critères d'un programme cash & food humanitaire.
-![Profil](C:\Users\DELL\Documents\Repo_PowerBI)
+![Profil](image/Profil.png)
 
 ## 🌍 Explication Non-Technique du MEAL
 
